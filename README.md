@@ -1,5 +1,6 @@
 # SQL-Advent-Calendar-Challenge
 
+**Objective of the Project**
 The objective of this challenge was to strengthen SQL fundamentals by applying them to real-world business scenarios rather than solving isolated, theoretical problems.
 
 Over 24 consecutive days, I worked through one SQL challenge per day, each designed to mirror practical decision-making situations using realistic datasets. The focus was not just on getting correct results, but on choosing the right approach, exploring alternative query strategies, and improving query optimization, readability, and performance.
